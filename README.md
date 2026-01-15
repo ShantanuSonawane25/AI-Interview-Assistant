@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🚀 AI Powered Interview Assistant
 
 A **Vite + React + Redux** web app that simulates a timed technical interview.  
