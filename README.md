@@ -165,11 +165,6 @@ Set `VITE_GEMINI_API_KEY` in your `.env` (local) or in **Vercel/Netlify project 
 If you see “selector returned a different result” in dev tools, memoize selectors using `createSelector` or return stable references.
 
 ---
-
-## 📄 License
-
-MIT © Sarg3n7
-=======
 # 🤖 AI-Powered Interview Assistant
 
 An intelligent mock interview platform that simulates real-world interview scenarios using **voice-based interaction, live camera monitoring, and generative AI-driven evaluation**. The system helps candidates practice interviews in a realistic environment and receive instant AI feedback.
@@ -233,9 +228,4 @@ The application is divided into two main modules:
 - Google Gemini API (Question generation & evaluation)
 - Web Speech API (SpeechRecognition & SpeechSynthesis)
 - WebRTC (Camera & microphone access)
-
----
-
-## 📂 Project Structure
-
->>>>>>> e8714404d58a88cd8776eacf805522eeb7e6bba3
+-----
